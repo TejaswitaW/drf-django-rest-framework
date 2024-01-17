@@ -1,0 +1,4 @@
+Basic and session authentication
+
+
+2e54ab67c00d39a9482a3bad7e065205

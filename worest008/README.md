@@ -1,0 +1,2 @@
+Update Resource
+Delete resource

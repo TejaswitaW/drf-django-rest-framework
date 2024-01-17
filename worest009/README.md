@@ -1,0 +1,1 @@
+Single enpoint for all APIs.
